@@ -1,0 +1,6 @@
+[user]
+	email = s@cassiba.com
+	name = Samuel Cassiba
+[pull]
+	ff = only
+	rebase = true
